@@ -1,0 +1,13 @@
+
+To github.com:Matteddul/Master.git
+   194e2d7..18b9b86  master -> master
+root@ip-172-31-14-228:/home/ubuntu/Master# git pull
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (3/3), done.
+Unpacking objects: 100% (3/3), 722 bytes | 722.00 KiB/s, done.
+remote: Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+From github.com:Matteddul/Master
+   18b9b86..ed9d150  master     -> origin/master
+Updating 18b9b86..ed9d150
+Fast-forward
